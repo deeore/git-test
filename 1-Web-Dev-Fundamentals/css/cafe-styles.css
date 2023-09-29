@@ -1,0 +1,71 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1620820186187-fc32e79adb74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1972&q=80);
+  font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+  color: purple;
+  font: 45px Garamond, Helvetica, serif;
+  font-family: cursive;
+  margin: 0 500px;
+  -webkit-text-stroke: black 3px;
+}
+
+table {
+  border: solid red 5px;
+  width: 50%;
+  color: white;
+  background-color: black;
+  margin: 0 500px;
+}
+
+thead {
+  text-align: left;
+  color: green;
+  font-family: cursive;
+  margin: 0 500px;
+
+
+}
+
+label {
+  display: block;
+  color: green;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 24px;
+  -webkit-text-stroke: black 2px;
+}
+
+#submit-btn {
+  display: block;
+  color: white;
+  background-color: green;
+  border-radius: 10px;
+  border: solid 2px black;
+  margin: 0 25px;
+}
+
+.title {
+  color: rgb(32, 212, 212);
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 30px;
+  -webkit-text-stroke: black 3px;
+  margin: 0 500px;
+  padding: 50px;
+}
+
+.text {
+  color: red;
+  margin: 0 500px;
+}
+
+#rate {
+  padding: 0;
+  margin: 0 500px;
+}
+
+#sub {
+  margin: 0;
+}
